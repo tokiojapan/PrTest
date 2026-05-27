@@ -1,0 +1,47 @@
+# Build results
+**/bin/
+**/obj/
+**/out/
+
+# VSCode settings
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temp files
+*.dbmdl
+*.jfm
+
+# DotNet CLI
+*.deps.json
+*.runtimeconfig.json
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# OS-specific
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
