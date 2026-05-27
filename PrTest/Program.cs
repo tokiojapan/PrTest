@@ -3,3 +3,4 @@
 var greeter = new Greeter();
 Console.WriteLine(greeter.GetMessage());
 Console.WriteLine(greeter.GetIssueMessage());
+Console.WriteLine(greeter.GetIssue2Message());
