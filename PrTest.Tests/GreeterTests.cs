@@ -18,4 +18,11 @@ public class GreeterTests
         var greeter = new Greeter();
         Assert.Equal("I'm a issue1.", greeter.GetIssueMessage());
     }
+
+    [Fact]
+    public void GetIssueMessage_ReturnsIssue2Message()
+    {
+        var greeter = new Greeter();
+        Assert.Equal("I'm a issue2.", greeter.GetIssue2Message());
+    }
 }
