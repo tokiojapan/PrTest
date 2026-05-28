@@ -23,6 +23,6 @@ public class GreeterTests
     public void GetIssueMessage_ReturnsIssue2Message()
     {
         var greeter = new Greeter();
-        Assert.Equal("I'm a issue2.", greeter.GetIssue2Message());
+        Assert.Equal("I'm a issue3.", greeter.GetIssue2Message());
     }
 }
