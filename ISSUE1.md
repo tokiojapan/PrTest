@@ -14,4 +14,4 @@ add gs V
 add gs U
 add neon A
 
-my name is kondo.
+my name is mick.
