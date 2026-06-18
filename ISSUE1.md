@@ -10,5 +10,5 @@ fixed
 
 add gs x
 add neon o
-add gs O
-add neon X
+add gs Q
+add neon Y
