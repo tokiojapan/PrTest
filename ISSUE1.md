@@ -8,5 +8,5 @@ fixed
 ## scenario-2
 fixed
 
-add gs
-add neon
+add gs x
+add neon o
