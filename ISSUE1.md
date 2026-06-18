@@ -14,4 +14,4 @@ add gs V
 add gs U
 add neon A
 
-my name is gs.
+my name is neon.
